@@ -19,7 +19,4 @@ When you run any of the algorithms, you are given the opportunity to select the 
            ---> as a key, you must enter a number not exceeding 1000, then enter a message
   cipher   ---> for encryption, or the resulting sequence of numbers for decryption.</pre>
   
-  Thanks!
-In the case of a symmetric algorithm, the principle is similar, but here,
-as a key, you must enter a number not exceeding 1000, then enter a message
-for encryption, or the resulting sequence of numbers for decryption.</pre>
+  <h2>Thanks!</h2>
