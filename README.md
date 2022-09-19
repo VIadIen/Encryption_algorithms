@@ -11,10 +11,15 @@ When you run any of the algorithms, you are given the opportunity to select the 
 1. Encryption
 2. Decryption
 
-<pre>Symmetric  ---> In the case of using a symmetric algorithm (Atbash), you need a key - a word in which no letters are repeated,
- cipher    ---> then, depending on the selected early mode, enter messages for encryption / decryption.</pre>
+<pre>Symmetric  ---> In the case of using a symmetric algorithm (Atbash), you
+           ---> needa key- a word in which no letters are repeated, then, depending
+  cipher   ---> on the selected early mode, enter messages for encryption / decryption.</pre>
 
-<pre>Asymmetric ---> In the case of a symmetric algorithm, the principle is similar, but here, as a key, you must enter a number 
-  cipher   ---> not exceeding 1000, then enter a message for encryption, or the resulting sequence of numbers for decryption.</pre>
+<pre>Asymmetric ---> In the case of a symmetric algorithm, the principle is similar, but here,
+           ---> as a key, you must enter a number not exceeding 1000, then enter a message
+  cipher   ---> for encryption, or the resulting sequence of numbers for decryption.</pre>
   
   Thanks!
+In the case of a symmetric algorithm, the principle is similar, but here,
+as a key, you must enter a number not exceeding 1000, then enter a message
+for encryption, or the resulting sequence of numbers for decryption.</pre>
