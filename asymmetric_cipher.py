@@ -25,7 +25,7 @@ if __name__ == '__main__':
     mode = input('Select mode:\n1. Encryption\n2. Decryption\n').upper()
     secret_key = int(input('Input secret key: '))
     if mode == '1':
-        new_message = input('Input your message: ').upper()
+        new_message = input('Input your message: ')
         print('Result of encryption: ' + cryption_message(new_message, secret_key))
     else:
         new_message = input('Input your message:').split()
