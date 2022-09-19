@@ -1,3 +1,4 @@
+# ElGamal Cipher
 from random import randint as rand
 
 
